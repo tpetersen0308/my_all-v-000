@@ -9,9 +9,8 @@ def my_all?(collection)
     else
       i += 1
     end
-    return true
   end
-
+  return true
 #  if block_return_values.include?(false)
 #    return false
 #  else
